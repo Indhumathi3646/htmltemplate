@@ -212,6 +212,7 @@ button{
   column-gap: 10px ;
   row-gap: 20px;
   justify-content: space-between;
+  justify-items:center;
 }
 
 /* Each image box */
